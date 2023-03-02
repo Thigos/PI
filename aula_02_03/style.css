@@ -52,3 +52,12 @@ h1, p{
     border-radius: 33px 0px 0px 33px; 
     float: right;
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: auto;
+    }
+    .container:hover{
+        width: auto;
+    }
+}
